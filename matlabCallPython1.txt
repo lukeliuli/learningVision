@@ -1,0 +1,8 @@
+
+例子1
+a = py.cv2.imread('E:\GITHUB\learningVision\test1.jpg');
+imshow(uint8(a));
+
+例子2 
+cap= (uint8(1));
+im1= cap.read();
