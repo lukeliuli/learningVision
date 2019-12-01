@@ -14,5 +14,12 @@ learning and codes  for  vision related courses
 6.halcom调用工业相机的软件的代码，见百度网盘  
 链接：https://pan.baidu.com/s/1cvW1vzmSSrD6qZcWoCnh8w   
 提取码：me3j  
-7.机器视觉图像采集.vi：为labview读入工业相机的代码  
+7.机器视觉图像采集.vi：为labview读入工业相机的代码   
+
+注意
+1.自己学会用git,python
+2.halcom（百度网盘中有相关软件，自己下载），工业实际中大量运用。
+3.MATLAB，最容易掌握
+4.opencv，学校用得多，和人工智能结合紧密
+ 
 
