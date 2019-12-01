@@ -17,9 +17,10 @@ learning and codes  for  vision related courses
 7.机器视觉图像采集.vi：为labview读入工业相机的代码   
 
 注意
-1.自己学会用git,python
-2.halcom（百度网盘中有相关软件，自己下载），工业实际中大量运用。
-3.MATLAB，最容易掌握
-4.opencv，学校用得多，和人工智能结合紧密
+1.自己学会用git,python  
+2.halcom（百度网盘中有相关软件，自己下载），工业实际中大量运用，甚至就是事实标准    
+3.MATLAB，最容易掌握    
+4.opencv，学校用得多，和人工智能结合紧密  
+5.labview,学校用的多，  测控专业熟悉，容易掌握    
  
 
